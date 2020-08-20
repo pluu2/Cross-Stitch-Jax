@@ -4,7 +4,7 @@ Implementation of a Cross-Stitch Network on Jax
 ---
 Misra, I., Shivastava, A., Gupta, A., Herbert,M. (2016). Cross-Stitch Networks for Multi-Task Learning. 
 
-Misra et al combined the activation map of a layer of one network to another network using a  learnable parameters $\alpha$. 
+Misra et al combined the activation map of a layer of one network to another network using a  learnable parameters alpha. 
 
 Overview:
 --- 
